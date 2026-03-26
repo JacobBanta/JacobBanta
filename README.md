@@ -1,18 +1,31 @@
 ``` text
-/=========/=\   /==/===\===\  /===\  /=\ |=\ |=|======/=\
-      /  /   \ /  /    |   |  |   | /   \|  \| |  || /   \
-     /  /=====\|  |    |===\  |===\/=====\     |  ||/=====\
-    /  /       \  \    |   |  |   /      | |\  |  |/       \
-===/  /         \==\===/===/  \==/       |=| \=|  /         \
+/=========/=\   /==//===\===\  /===\  /=\ |=\ |=|=======/=\
+      /  /   \ /   /    |   |  |   | /   \|  \| |  | | /   \
+     /  /=====\|   |    |===\  |===\/=====\     |  | |/=====\
+    /  /       \   \    |   |  |   /      | |\  |  | /       \
+\==/  /         \==\\===/===/  \==/       |=| \=|  |/         \
 ```
 
-Welecome to my GitHub!
+# Hi, I'm Jacob!
 
+CS undergrad near Atlanta, GA. I mostly work in Zig and Rust - systems programming, embedded, and low-level tooling.
 
-<!--![JacobBanta's Stats](https://github-readme-stats.vercel.app/api?username=JacobBanta&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
--->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JacobBanta?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+Open to internships and full-time roles. Systems and embedded preferred, but I'm flexible.
 
-![JacobBanta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacobBanta&theme=vue-dark&hide_border=false)
+[LinkedIn](https://www.linkedin.com/in/jacob-banta-842775372/) • [Portfolio](https://www.jacobbanta.dev)
 
-![JacobBanta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobBanta&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+## Current projects
+* [BiAxis](https://github.com/JacobBanta/BiAxis) - a 2D game engine built around zero-cost abstractions.
+* [jcc](https://codeberg.org/JacobBanta2/jcc) - a C compiler written from scratch.
+* [cluster manager](https://github.com/JacobBanta/cluster_manager) - distributed computation manager for heterogeneous clusters, with support for mixed x86_64/x86_32 architectures.
+
+## Tech Stack
+### Languages
+**Primary:** Zig, Rust  
+**Systems:** C, C++, Odin  
+**Scripting/Other:** Go, Bash, Python
+### Libraries
+**GUI:** Raylib, SDL3, TIGR, egui
+**TUI:** libvaxis (Zig), ratatui (Rust)
+**CLI:** zig-clap, clap (Rust)
+**Hardware:** libusb, libuvc
